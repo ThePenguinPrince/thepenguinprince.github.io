@@ -1,0 +1,35 @@
+body,button {
+  background-color: #0A100A;
+  font-size: 42px;
+  font-weight: bold;
+  font-family: monospace;
+  color: #10FF10;
+}
+
+#main {
+  text-align: center;
+  margin: 5vh auto;
+}
+
+.subtext {
+  font-weight: normal;
+  font-size: 22px;
+}
+
+button:focus {
+  outline: none;
+}
+
+button {
+  border: 2px solid #04AA04;
+  font-size: 2vh;
+  width: 12vh;
+  height: 12vh;
+  vertical-align: top;
+}
+
+#btnselector {
+  width: 99vw;
+  height: 10vh;
+  margin: 10px;
+}
